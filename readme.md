@@ -36,3 +36,5 @@ This is a Python django application, so you need to have python > 3.7 in able to
 - python manage.py runserver
 
 ### Running tests
+
+./manage.py test
