@@ -1,4 +1,4 @@
-django==2.2.4
+django==2.2.27
 requests==2.22.0
 pytest==5.1.0
 beautifulsoup4==4.8.0
